@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="174dp"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="143dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="94dp"
+        android:layout_marginRight="94dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="377dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="115dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="239dp"
+        android:text="Everybody stared at her. The old man, too, turned to look at her, fixing his  great, bulging, horribly watery light gray eyes, deep in her face. For some little  time he tried to answer, but words failed him. He looked and looked at her,  almost as if only then—at that silly, incongruous question—he had suddenly  realized at last that his son was really dead ... gone forever ... forever. His  face contracted, became horribly distorted, then he snatched in haste a  handkerchief from his pocket and, to the amazement of everyone, broke into  harrowing, heart-rending, uncontrollable sobs."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="133dp"
+        android:layout_height="41dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginEnd="120dp"
+        android:layout_marginRight="120dp"
+        android:layout_marginBottom="108dp"
+        android:text="The End"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+
+</RelativeLayout>

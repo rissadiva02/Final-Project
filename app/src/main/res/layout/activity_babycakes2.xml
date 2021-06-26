@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".Babycakes2">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="77dp"
+        android:layout_marginRight="77dp"
+        android:text="Babycakes"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="90dp"
+        android:text="Baby leather is soft and comfortable.  Some of them we tested.  We taped open their eyes, dripped detergents and shampoos in, a drop at a time.  We scarred them and scalded them.  We burnt them.  We clamped them and planted electrodes into their brains.  We grafted, and we froze, and we irradiated.  The babies breathed our smoke, and the babies’ veins flowed with our medicines and drugs, until they stopped breathing or until their blood ceased to flow.  It was hard, of course, but it was necessary.  No one could deny that.  With the animals gone, what else could we do?  Some people complained, of course.  But then, they always do.  And everything went back to normal.  Only…  Yesterday, all the babies were gone.  We don’t know where they went.  We didn’t even see them go.  We don’t know what we’re going to do without them.  But we’ll think of something.  Humans are smart.  It’s what makes us superior to the animals and the babies.  We’ll figure something out."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="171dp"
+        android:layout_height="47dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="95dp"
+        android:layout_marginRight="95dp"
+        android:layout_marginBottom="22dp"
+        android:gravity="center_horizontal"
+        android:text="The End"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+</RelativeLayout>

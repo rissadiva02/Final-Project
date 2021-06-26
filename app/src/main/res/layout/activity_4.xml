@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="136dp"
+        android:layout_height="53dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="127dp"
+        android:layout_marginRight="127dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="107dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="75dp"
+        android:text="The passengers who had left Rome by the night express had had to stop until  dawn at the small station of Fabriano in order to continue their journey by the  small old-fashioned “local” joining the main line with Sulmona.
+At dawn, in a stuffy and smoky second-class carriage in which five people had  already spent the night, a bulky woman in deep mourning, was hoisted in— almost like a shapeless bundle. Behind her—puffing and moaning, followed  her husband—a tiny man, thin and weakly, his face death-white, his eyes  small and bright and looking shy and uneasy.
+Having at last taken a seat he politely thanked the passengers who had  helped his wife and who had made room for her; then he turned round to the  woman trying to pull down the collar of her coat and politely enquired:
+“Are you all right, dear?”
+The wife, instead of answering, pulled up her collar again to her eyes, so as to  hide her face.
+“Nasty world,” muttered the husband with a sad smile. "
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="135dp"
+        android:layout_marginRight="135dp"
+        android:layout_marginBottom="19dp"
+        android:text="next page" />
+</RelativeLayout>

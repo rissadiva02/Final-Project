@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="162dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="113dp"
+        android:layout_marginRight="113dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="29dp"
+        android:layout_marginLeft="29dp"
+        android:layout_marginTop="102dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="79dp"
+        android:text="And he felt it his duty to explain to his traveling companions that the poor  woman was to be pitied for the war was taking away from her her only son, a  boy of twenty to whom both had devoted their entire life, even breaking up  their home at Sulmona to follow him to Rome where he had to go as a  student, then allowing him to volunteer for war with an assurance, however,  that at least for six months he would not be sent to the front and now, all of a  sudden, receiving a wire saying that he was due to leave in three days’ time  and asking them to go and see him off.
+The woman under the big coat was twisting and wriggling, at times growling  like a wild animal, feeling certain that all those explanations would not have  aroused even a shadow of sympathy from those people who—most likely— were in the same plight as herself. One of them, who had been listening with  particular attention, said:
+“You should thank God that your son is only leaving now for the front."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="135dp"
+        android:layout_marginRight="135dp"
+        android:layout_marginBottom="28dp"
+        android:text="next page" />
+</RelativeLayout>
+

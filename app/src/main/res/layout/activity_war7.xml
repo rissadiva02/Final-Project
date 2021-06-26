@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="93dp"
+        android:layout_marginRight="93dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="560dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="88dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginRight="33dp"
+        android:layout_marginBottom="83dp"
+        android:text="way he could have wished. That is why, as  you see, I do not even wear mourning....”
+He shook his light fawn coat as to show it; his livid lip over his missing teeth  was trembling, his eyes were watery and motionless, and soon after, he  ended with a shrill laugh which might well have been a sob.
+“Quite so ... quite so ...” agreed the others.
+The woman who, bundled in a corner under her coat, had been sitting and  listening had—for the last three months—tried to find in the words of her  husband and her friends something to console her in her deep sorrow,  something that might show her how a mother should resign herself to send
+her son not even to death but to a probable danger of life. Yet not a word had  she found amongst the many which had been said ... and her grief had been  greater in seeing that nobody—as she thought—could share her feelings. But now the words of the traveler amazed and almost stunned her. She  suddenly realized that it wasn’t the others who were wrong and could ... "
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="133dp"
+        android:layout_marginRight="133dp"
+        android:layout_marginBottom="30dp"
+        android:text="next page" />
+</RelativeLayout>

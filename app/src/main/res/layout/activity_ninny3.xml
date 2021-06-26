@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="218dp"
+        android:layout_height="59dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginRight="81dp"
+        android:text="The Ninny"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="561dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginRight="33dp"
+        android:layout_marginBottom="78dp"
+        android:text="“From forty-one we take twenty-seven. That leaves fourteen”.
+Her eyes filled with tears, and her thin, pretty little nose was shining with perspiration. Poor  little child!
+“I only took money once,” she said in a trembling voice. “I took three rubles from your  wife... never anything more”.
+“Did you now? You see, I never made a note of it. Take three from fourteen. That leaves  eleven. Here’s your money, my dear. Three, three, three... one and one. Take it, my dear”.
+I gave her the eleven rubles. With trembling fingers she took them and slipped them into  her pocket.
+“Merci,” she whispered.
+I jumped up, and began pacing up and down the room. I was in a furious temper. “Why did you say ‘merci?” I asked.
+“For the money”.
+“Don’t you realize I’ve been cheating you? I steal your money, and all you can say is  ‘merci”!’
+“In my other places they gave me nothing”.
+“ They gave you nothing! Well, no wonder! I was playing a trick on you – a dirty trick..."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="132dp"
+        android:layout_marginRight="132dp"
+        android:layout_marginBottom="27dp"
+        android:text="next page" />
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="150dp"
+        android:layout_height="69dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="154dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="107dp"
+        android:layout_marginRight="107dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="87dp"
+        android:text="“What about me? I have two sons and three nephews at the front,” said  another passenger.
+“Maybe, but in our case it is our only son,” ventured the husband.
+“What difference can it make? You may spoil your only son with excessive  attentions, but you cannot love him more than you would all your other  children if you had any. Paternal love is not like bread that can be broken into  pieces and split amongst the children in equal shares. A father gives all his  love to each one of his children without discrimination, whether it be one or  ten, and if I am suffering now for my two sons, I am not suffering half for each  of them but double....”
+“True ... true ...” sighed the embarrassed husband, “but suppose (of course  we all hope it will never be your case) a father has two sons at the front and  he loses one of them, there is still one left to console him ... while ...”
+“Yes,” answered the other, getting cross, “a son left to console him but also a  son left..."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="143dp"
+        android:layout_marginRight="143dp"
+        android:layout_marginBottom="29dp"
+        android:text="next page" />
+</RelativeLayout>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="219dp"
+        android:layout_height="68dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="111dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginRight="81dp"
+        android:text="The Ninny"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="378dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="115dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="238dp"
+        android:text="I’ll  give you your eighty rubles, they are all here in an envelope made out for you. Is it possible  for anyone to be such a nitwit? Why didn’t you protest? Why did you keep your mouth  shut? It is possible that there is anyone in this world who is so spineless? Why are you such  a ninny”؟
+She gave me a bitter little smile. On her face I read the words: “Yes, it is possible”.
+I apologized for having played this cruel trick on her, and to her great surprise gave her the  eighty rubles. And then she said “merci” again several times, always timidly, and went out. I  gazed after her, thinking how very easy it is in this world to be strong."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="171dp"
+        android:layout_height="47dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="108dp"
+        android:layout_marginRight="108dp"
+        android:layout_marginBottom="66dp"
+        android:gravity="center_horizontal"
+        android:text="The End"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+</RelativeLayout>

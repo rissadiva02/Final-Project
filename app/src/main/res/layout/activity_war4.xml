@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="152dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="123dp"
+        android:layout_marginRight="123dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="103dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="79dp"
+        android:text="“for whom he must survive, while in the case of the father of an only  son if the son dies the father can die too and put an end to his distress. Which  of the two positions is the worse? Don’t you see how my case would be worse  than yours?”
+“Nonsense,” interrupted another traveler, a fat, red-faced man with bloodshot  eyes of the palest gray.
+He was panting. From his bulging eyes seemed to spurt inner violence of an  uncontrolled vitality which his weakened body could hardly contain.
+“Nonsense,” he repeated, trying to cover his mouth with his hand so as to hide  the two missing front teeth. “Nonsense. Do we give life to our children for our  own benefit?”
+The other travelers stared at him in distress. The one who had had his son at  the front since the first day of the war sighed: “You are right. Our children do  not belong to us, they belong to the Country...."
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="134dp"
+        android:layout_marginRight="134dp"
+        android:layout_marginBottom="29dp"
+        android:text="next page" />
+</RelativeLayout>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context=".Activity3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="126dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="105dp"
+        android:layout_marginRight="105dp"
+        android:text="War"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="559dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginBottom="85dp"
+        android:text=" Isn’t it natural that at their age they should  consider the love for their Country (I am speaking of decent boys, of course)  even greater than the love for us? Isn’t it natural that it should be so, as after  all they must look upon us as upon old boys who cannot move any more and  must stay at home? If Country exists, if Country is a natural necessity like  bread, of which each of us must eat in order not to die of hunger, somebody  must go to defend it. And our sons go, when they are twenty, and they don’t  want tears, because if they die, they die inflamed and happy (I am speaking,  of course, of decent boys). Now, if one dies young and happy, without having  the ugly sides of life, the boredom of it, the pettiness, the bitterness of  disillusion ... what more can we ask for him? Everyone should stop crying:  everyone should laugh, as I do ... or at least thank God—as I do—because  my son, before dying, sent me a message saying that he was dying satisfied  at having ended his life in the best....” "
+        android:textColor="@color/white"
+        android:textSize="15.5dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="133dp"
+        android:layout_marginRight="133dp"
+        android:layout_marginBottom="23dp"
+        android:text="next page" />
+</RelativeLayout>
